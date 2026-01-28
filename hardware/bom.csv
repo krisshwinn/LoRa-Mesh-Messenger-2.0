@@ -1,0 +1,5 @@
+Component,Quantity,Unit Cost,Total Cost,Link/Notes
+Heltec WiFi LoRa 32 V3,3,$15.00,$45.00,Main MCU + LoRa + OLED
+NEO-6M GPS Module,3,$10.00,$30.00,Optional for location
+18650 Li-ion Battery,3,$5.00,$15.00,Portable power
+,,**Total**,"~$90.00",
